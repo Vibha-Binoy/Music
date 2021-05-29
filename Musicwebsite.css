@@ -1,0 +1,104 @@
+
+body{
+	        background-image:url("https://free4kwallpapers.com/uploads/originals/2021/01/20/music-wallpaper.jpg");
+	        background-size:cover;
+			margin:0;
+			text-align: center;
+			padding: 50px;
+		}
+		.header{
+			padding: 20;
+			border-radius: 70px;
+
+		}
+		p{
+			text-align: left;
+		}
+		h2{
+			text-align: left;
+
+		}
+		ol{
+			text-align: left;
+		}
+		li{
+			text-align: left;
+		}
+		.nav{
+			background-color: black;
+			overflow: hidden;
+			opacity:0.5;
+			border-radius: 10px;
+		}
+		.nav a{
+			float:left;
+			display:block;
+			color:white;
+			padding:14px 16px;
+			text-decoration: none;
+
+		}
+		.nav a:hover{
+			background-color: yellow;
+			color: lime;
+			text-align: center;
+		}
+		.column{
+			float: left;
+			padding:10px;
+		}
+		.columnside{
+			float: left;
+			width:25%;
+			background-color: red;
+			color: white;
+			padding: 10px;
+		}
+		.columnmiddle{
+			float: left;
+			width: 50%;
+			background-color:blue;
+			color: white;
+			padding: 10px;
+		}
+		.columnright{
+			float: left;
+			width: 25%;
+			background-color: green;
+			color: white;
+			padding: 10px;
+		}
+		.vocalcourse{
+			float: left;
+			width:30%;
+			background-image: url("https://cdn.schoolofrock.com/img/news-article-hero@2x/how-to-warm-up-your-singing-voice-1559238633.jpg");
+			background-size: cover;
+			color: white;
+			padding: 10px;
+			color:white;
+			height: 50%;
+			border-radius:10px;
+		}
+		.vocalcourse li:hover{
+			color:white;
+		}
+		.keyboardcourse{
+			float:right;
+			width:30%;
+			background-image: url("https://static.toiimg.com/thumb/msid-75530966,width-1200,height-900,resizemode-4/.jpg");
+			background-size: cover;
+			color: white;
+			padding: 10px;
+			color:white;
+			height:50%;
+			border-radius: 10px;
+		}
+		h1{
+			font-family: 'Sofia';
+		}
+		.footer{
+			background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnp6kZxU6G30xBs8rAqVjZPOONBHS8LrEv9A&usqp=CAU);
+			padding:20px;
+			margin-top:20px;
+			background-size: cover;
+		}
