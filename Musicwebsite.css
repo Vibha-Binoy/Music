@@ -1,0 +1,150 @@
+
+body{
+	        background-image:url("bg.jpg");
+	        background-size:cover;
+			margin:0;
+			text-align: center;
+		}
+		.header{
+			background-color: white;
+		}
+		p{
+			text-align: left;
+			font-size:25px;
+			font-family: 'Allura';
+            color: #ffffff;
+		}
+		h2{
+			text-align: left;
+
+		}
+		ol{
+			text-align: left;
+		}
+		li{
+			text-align: left;
+		}
+		.nav{
+			background-color: black;
+			overflow: hidden;
+			opacity:0.5;
+			border-radius: 10px;
+		}
+		.nav a{
+			float:left;
+			display:block;
+			color:white;
+			padding:14px 16px;
+			text-decoration: none;
+
+		}
+		.nav a:hover{
+			background-color: yellow;
+			color: lime;
+			text-align: center;
+		}
+		.column{
+			float: left;
+			padding:10px;
+		}
+		.columnside{
+			float: left;
+			width:25%;
+			background-color: red;
+			color: white;
+			padding: 10px;
+		}
+		.columnmiddle{
+			float: left;
+			width: 50%;
+			background-color:blue;
+			color: white;
+			padding: 10px;
+		}
+		.columnright{
+			float: left;
+			width: 25%;
+			background-color: green;
+			color: white;
+			padding: 10px;
+		}
+		.vocalcourse{
+			float: left;
+			width:30%;
+			background-image: url("https://cdn.schoolofrock.com/img/news-article-hero@2x/how-to-warm-up-your-singing-voice-1559238633.jpg");
+			background-size: cover;
+			color: white;
+			padding: 10px;
+			color:white;
+			height: 50%;
+			border-radius:10px;
+		}
+		.vocalcourse li:hover{
+			color:white;
+		}
+		.keyboardcourse{
+			float:right;
+			width:30%;
+			background-image: url("https://static.toiimg.com/thumb/msid-75530966,width-1200,height-900,resizemode-4/.jpg");
+			background-size: cover;
+			color: white;
+			padding: 10px;
+			color:white;
+			height:50%;
+			border-radius: 10px;
+		}
+		h1,h2,h3,h4,h5,h6{
+			font-family: 'Sofia';
+
+		}
+		.footer{
+			background-color:white;
+			height:100px;
+			position:fixed;
+            bottom:0;
+            width:100%;
+		}
+		table{
+			border-collapse: collapse;
+		    padding: 300px;
+		    border-radius: 20px;
+		    text-align: left;
+			font-size:25px;
+			font-family: 'Allura';
+            color: #ffffff;
+		}
+		td,th{
+			border: 2px solid white;
+			text-align: center;
+			padding: 10px
+		}
+		tr:nth-child(even)
+		{
+			background-color: #804000;
+		}
+		tr:nth-child(odd)
+		{
+			background-color:  #ff9933;
+		}
+		.letters{
+			border-collapse: collapse;
+		    border-radius: 20px;
+		    padding:0;
+		}
+		iframe{
+			height: 500px;
+			width: 500px;
+		}
+		a{
+			text-decoration: none;
+			color:#ffd9b3;
+		}
+		div{
+			font-size:25px;
+			font-family: 'Allura';
+		}
+		.alfa{
+			padding:30px;
+			font-size:40px;
+			font-family: 'Allura';
+		}
